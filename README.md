@@ -18,6 +18,6 @@
 <br>
 
 ## 📮 Get In Touch!
-- Twitter: https://twitter.com/artamananda
-- Instagram: https://instagram.com/artamananda
-- LinkedIn: https://www.linkedin.com/in/artamananda
+- Twitter: <a href="https://twitter.com/artamananda" target="_blank">https://twitter.com/artamananda</a>
+- Instagram: <a href="https://instagram.com/artamananda" target="_blank">https://instagram.com/artamananda</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/artamananda" target="_blank">https://www.linkedin.com/in/artamananda</a>
