@@ -2,6 +2,7 @@
 
 # Artamananda &mdash; @artamananda
 * 📱 Problem Solver | Future Software Engineer
+* 🎐 Ubuntu 22.04 LTS User
 * 🖥️ Currently learn about Backend Engineering at Ruangguru X Kampus Merdeka
 * 📧 Contact me at artamananda@gmail.com
 <br><br>
