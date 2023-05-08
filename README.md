@@ -3,7 +3,7 @@
 # Artamananda &mdash; @artamananda
 * 📱 Problem Solver | Future Software Engineer
 * 🎐 Ubuntu 22.04 LTS User
-* 🖥️ Currently learn about Backend Engineering at Ruangguru X Kampus Merdeka
+* 🖥️ Currently learn about Backend Engineering
 * 📧 Contact me at artamananda@gmail.com
 <br><br>
 * ❓ If you ask me, what are the products I like and I want to have them all? I Will Answer :
