@@ -2,7 +2,7 @@
 
 # Artamananda &mdash; @artamananda
 * 📱 Problem Solver | Future Software Engineer
-* 🖥️ Currently learn about Backend Engineering
+* 🖥️ Currently learn about Software Engineering
 * 📧 Contact me at artamananda@gmail.com
 <br><br>
 * ❓ If you ask me, what are the products I like and I want to have them all? I Will Answer :
