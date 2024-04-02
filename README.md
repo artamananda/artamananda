@@ -11,7 +11,10 @@
 
 ## Github Stats 📊 
 <div>
-  <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=artamananda&layout=compact&hide_border=true&bg_color=000000&title_color=3ddb83&text_color=FFFFFF"/>
+  <img height=154 src="https://github-readme-stats-eight-theta.vercel.app/api?username=artamananda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
+<div>
+  <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=artamananda&layout=compact&langs_count=10&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
