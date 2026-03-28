@@ -18,7 +18,7 @@
   </div>
   <div>
     <!-- <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=artamananda&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/> -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artamananda&theme=default" alt="kbiits" />
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=artamananda&theme=algolia)](https://git.io/streak-stats)
   </div>
 </div>
 <br>
